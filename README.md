@@ -13,4 +13,5 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0007-reverse-integer](https://github.com/Ritika090918/LeetCode/tree/main/0007-reverse-integer/) | Medium |
+| [0009-palindrome-number](https://github.com/Ritika090918/LeetCode/tree/main/0009-palindrome-number/) | Easy |
 <!---LeetCode Topics End-->
