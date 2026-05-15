@@ -16,6 +16,7 @@
 | ------- | ------- |
 | [0007-reverse-integer](https://github.com/Ritika090918/LeetCode/tree/main/0007-reverse-integer/) | Medium |
 | [0009-palindrome-number](https://github.com/Ritika090918/LeetCode/tree/main/0009-palindrome-number/) | Easy |
+| [2180-count-integers-with-even-digit-sum](https://github.com/Ritika090918/LeetCode/tree/main/2180-count-integers-with-even-digit-sum/) | Easy |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -24,4 +25,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0027-remove-element](https://github.com/Ritika090918/LeetCode/tree/main/0027-remove-element/) | Easy |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2180-count-integers-with-even-digit-sum](https://github.com/Ritika090918/LeetCode/tree/main/2180-count-integers-with-even-digit-sum/) | Easy |
 <!---LeetCode Topics End-->
