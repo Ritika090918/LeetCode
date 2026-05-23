@@ -8,6 +8,7 @@
 | [0027-remove-element](https://github.com/Ritika090918/LeetCode/tree/main/0027-remove-element/) | Easy |
 | [0053-maximum-subarray](https://github.com/Ritika090918/LeetCode/tree/main/0053-maximum-subarray/) | Medium |
 | [0238-product-of-array-except-self](https://github.com/Ritika090918/LeetCode/tree/main/0238-product-of-array-except-self/) | Medium |
+| [1567-maximum-length-of-subarray-with-positive-product](https://github.com/Ritika090918/LeetCode/tree/main/1567-maximum-length-of-subarray-with-positive-product/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -38,4 +39,9 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/Ritika090918/LeetCode/tree/main/0053-maximum-subarray/) | Medium |
+| [1567-maximum-length-of-subarray-with-positive-product](https://github.com/Ritika090918/LeetCode/tree/main/1567-maximum-length-of-subarray-with-positive-product/) | Medium |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1567-maximum-length-of-subarray-with-positive-product](https://github.com/Ritika090918/LeetCode/tree/main/1567-maximum-length-of-subarray-with-positive-product/) | Medium |
 <!---LeetCode Topics End-->
