@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/Ritika090918/LeetCode/tree/main/0001-two-sum/) | Easy |
 | [0027-remove-element](https://github.com/Ritika090918/LeetCode/tree/main/0027-remove-element/) | Easy |
 | [0053-maximum-subarray](https://github.com/Ritika090918/LeetCode/tree/main/0053-maximum-subarray/) | Medium |
+| [0075-sort-colors](https://github.com/Ritika090918/LeetCode/tree/main/0075-sort-colors/) | Medium |
 | [0238-product-of-array-except-self](https://github.com/Ritika090918/LeetCode/tree/main/0238-product-of-array-except-self/) | Medium |
 | [1567-maximum-length-of-subarray-with-positive-product](https://github.com/Ritika090918/LeetCode/tree/main/1567-maximum-length-of-subarray-with-positive-product/) | Medium |
 ## Hash Table
@@ -28,6 +29,7 @@
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Ritika090918/LeetCode/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0027-remove-element](https://github.com/Ritika090918/LeetCode/tree/main/0027-remove-element/) | Easy |
+| [0075-sort-colors](https://github.com/Ritika090918/LeetCode/tree/main/0075-sort-colors/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -50,4 +52,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Ritika090918/LeetCode/tree/main/0005-longest-palindromic-substring/) | Medium |
+## Sorting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0075-sort-colors](https://github.com/Ritika090918/LeetCode/tree/main/0075-sort-colors/) | Medium |
 <!---LeetCode Topics End-->
