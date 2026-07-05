@@ -6,6 +6,7 @@
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Ritika090918/LeetCode/tree/main/0001-two-sum/) | Easy |
 | [0027-remove-element](https://github.com/Ritika090918/LeetCode/tree/main/0027-remove-element/) | Easy |
+| [0048-rotate-image](https://github.com/Ritika090918/LeetCode/tree/main/0048-rotate-image/) | Medium |
 | [0053-maximum-subarray](https://github.com/Ritika090918/LeetCode/tree/main/0053-maximum-subarray/) | Medium |
 | [0075-sort-colors](https://github.com/Ritika090918/LeetCode/tree/main/0075-sort-colors/) | Medium |
 | [0238-product-of-array-except-self](https://github.com/Ritika090918/LeetCode/tree/main/0238-product-of-array-except-self/) | Medium |
@@ -20,6 +21,7 @@
 | ------- | ------- |
 | [0007-reverse-integer](https://github.com/Ritika090918/LeetCode/tree/main/0007-reverse-integer/) | Medium |
 | [0009-palindrome-number](https://github.com/Ritika090918/LeetCode/tree/main/0009-palindrome-number/) | Easy |
+| [0048-rotate-image](https://github.com/Ritika090918/LeetCode/tree/main/0048-rotate-image/) | Medium |
 | [2180-count-integers-with-even-digit-sum](https://github.com/Ritika090918/LeetCode/tree/main/2180-count-integers-with-even-digit-sum/) | Easy |
 ## Prefix Sum
 | Problem Name | Difficulty |
@@ -61,5 +63,6 @@
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0048-rotate-image](https://github.com/Ritika090918/LeetCode/tree/main/0048-rotate-image/) | Medium |
 | [0867-transpose-matrix](https://github.com/Ritika090918/LeetCode/tree/main/0867-transpose-matrix/) | Easy |
 <!---LeetCode Topics End-->
