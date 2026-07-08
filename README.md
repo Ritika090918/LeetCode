@@ -14,11 +14,13 @@
 | [0867-transpose-matrix](https://github.com/Ritika090918/LeetCode/tree/main/0867-transpose-matrix/) | Easy |
 | [1567-maximum-length-of-subarray-with-positive-product](https://github.com/Ritika090918/LeetCode/tree/main/1567-maximum-length-of-subarray-with-positive-product/) | Medium |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Ritika090918/LeetCode/tree/main/2442-count-number-of-distinct-integers-after-reverse-operations/) | Medium |
+| [2744-find-maximum-number-of-string-pairs](https://github.com/Ritika090918/LeetCode/tree/main/2744-find-maximum-number-of-string-pairs/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Ritika090918/LeetCode/tree/main/0001-two-sum/) | Easy |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Ritika090918/LeetCode/tree/main/2442-count-number-of-distinct-integers-after-reverse-operations/) | Medium |
+| [2744-find-maximum-number-of-string-pairs](https://github.com/Ritika090918/LeetCode/tree/main/2744-find-maximum-number-of-string-pairs/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -43,6 +45,7 @@
 | [0054-spiral-matrix](https://github.com/Ritika090918/LeetCode/tree/main/0054-spiral-matrix/) | Medium |
 | [0867-transpose-matrix](https://github.com/Ritika090918/LeetCode/tree/main/0867-transpose-matrix/) | Easy |
 | [2180-count-integers-with-even-digit-sum](https://github.com/Ritika090918/LeetCode/tree/main/2180-count-integers-with-even-digit-sum/) | Easy |
+| [2744-find-maximum-number-of-string-pairs](https://github.com/Ritika090918/LeetCode/tree/main/2744-find-maximum-number-of-string-pairs/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -61,6 +64,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Ritika090918/LeetCode/tree/main/0005-longest-palindromic-substring/) | Medium |
+| [2744-find-maximum-number-of-string-pairs](https://github.com/Ritika090918/LeetCode/tree/main/2744-find-maximum-number-of-string-pairs/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
