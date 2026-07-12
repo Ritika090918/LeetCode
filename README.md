@@ -10,6 +10,7 @@
 | [0053-maximum-subarray](https://github.com/Ritika090918/LeetCode/tree/main/0053-maximum-subarray/) | Medium |
 | [0054-spiral-matrix](https://github.com/Ritika090918/LeetCode/tree/main/0054-spiral-matrix/) | Medium |
 | [0075-sort-colors](https://github.com/Ritika090918/LeetCode/tree/main/0075-sort-colors/) | Medium |
+| [0118-pascals-triangle](https://github.com/Ritika090918/LeetCode/tree/main/0118-pascals-triangle/) | Easy |
 | [0238-product-of-array-except-self](https://github.com/Ritika090918/LeetCode/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0867-transpose-matrix](https://github.com/Ritika090918/LeetCode/tree/main/0867-transpose-matrix/) | Easy |
 | [1567-maximum-length-of-subarray-with-positive-product](https://github.com/Ritika090918/LeetCode/tree/main/1567-maximum-length-of-subarray-with-positive-product/) | Medium |
@@ -56,6 +57,7 @@
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Ritika090918/LeetCode/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0053-maximum-subarray](https://github.com/Ritika090918/LeetCode/tree/main/0053-maximum-subarray/) | Medium |
+| [0118-pascals-triangle](https://github.com/Ritika090918/LeetCode/tree/main/0118-pascals-triangle/) | Easy |
 | [1567-maximum-length-of-subarray-with-positive-product](https://github.com/Ritika090918/LeetCode/tree/main/1567-maximum-length-of-subarray-with-positive-product/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
