@@ -31,6 +31,7 @@
 | [0048-rotate-image](https://github.com/Ritika090918/LeetCode/tree/main/0048-rotate-image/) | Medium |
 | [2180-count-integers-with-even-digit-sum](https://github.com/Ritika090918/LeetCode/tree/main/2180-count-integers-with-even-digit-sum/) | Easy |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Ritika090918/LeetCode/tree/main/2442-count-number-of-distinct-integers-after-reverse-operations/) | Medium |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/Ritika090918/LeetCode/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -84,4 +85,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Ritika090918/LeetCode/tree/main/2442-count-number-of-distinct-integers-after-reverse-operations/) | Medium |
+## Number Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/Ritika090918/LeetCode/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 <!---LeetCode Topics End-->
