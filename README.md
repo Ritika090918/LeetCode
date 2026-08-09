@@ -44,6 +44,7 @@
 | [0027-remove-element](https://github.com/Ritika090918/LeetCode/tree/main/0027-remove-element/) | Easy |
 | [0075-sort-colors](https://github.com/Ritika090918/LeetCode/tree/main/0075-sort-colors/) | Medium |
 | [0142-linked-list-cycle-ii](https://github.com/Ritika090918/LeetCode/tree/main/0142-linked-list-cycle-ii/) | Medium |
+| [0876-middle-of-the-linked-list](https://github.com/Ritika090918/LeetCode/tree/main/0876-middle-of-the-linked-list/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -97,6 +98,7 @@
 | [0092-reverse-linked-list-ii](https://github.com/Ritika090918/LeetCode/tree/main/0092-reverse-linked-list-ii/) | Medium |
 | [0142-linked-list-cycle-ii](https://github.com/Ritika090918/LeetCode/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0206-reverse-linked-list](https://github.com/Ritika090918/LeetCode/tree/main/0206-reverse-linked-list/) | Easy |
+| [0876-middle-of-the-linked-list](https://github.com/Ritika090918/LeetCode/tree/main/0876-middle-of-the-linked-list/) | Easy |
 ## Floyd's Cycle Finding Algorithm
 | Problem Name | Difficulty |
 | ------- | ------- |
