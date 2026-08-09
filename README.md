@@ -20,6 +20,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Ritika090918/LeetCode/tree/main/0001-two-sum/) | Easy |
+| [0141-linked-list-cycle](https://github.com/Ritika090918/LeetCode/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/Ritika090918/LeetCode/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0242-valid-anagram](https://github.com/Ritika090918/LeetCode/tree/main/0242-valid-anagram/) | Easy |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Ritika090918/LeetCode/tree/main/2442-count-number-of-distinct-integers-after-reverse-operations/) | Medium |
@@ -43,6 +44,7 @@
 | [0005-longest-palindromic-substring](https://github.com/Ritika090918/LeetCode/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0027-remove-element](https://github.com/Ritika090918/LeetCode/tree/main/0027-remove-element/) | Easy |
 | [0075-sort-colors](https://github.com/Ritika090918/LeetCode/tree/main/0075-sort-colors/) | Medium |
+| [0141-linked-list-cycle](https://github.com/Ritika090918/LeetCode/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/Ritika090918/LeetCode/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0876-middle-of-the-linked-list](https://github.com/Ritika090918/LeetCode/tree/main/0876-middle-of-the-linked-list/) | Easy |
 ## Simulation
@@ -96,12 +98,14 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0092-reverse-linked-list-ii](https://github.com/Ritika090918/LeetCode/tree/main/0092-reverse-linked-list-ii/) | Medium |
+| [0141-linked-list-cycle](https://github.com/Ritika090918/LeetCode/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/Ritika090918/LeetCode/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0206-reverse-linked-list](https://github.com/Ritika090918/LeetCode/tree/main/0206-reverse-linked-list/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/Ritika090918/LeetCode/tree/main/0876-middle-of-the-linked-list/) | Easy |
 ## Floyd's Cycle Finding Algorithm
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0141-linked-list-cycle](https://github.com/Ritika090918/LeetCode/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/Ritika090918/LeetCode/tree/main/0142-linked-list-cycle-ii/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
