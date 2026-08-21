@@ -75,6 +75,7 @@
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Ritika090918/LeetCode/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1567-maximum-length-of-subarray-with-positive-product](https://github.com/Ritika090918/LeetCode/tree/main/1567-maximum-length-of-subarray-with-positive-product/) | Medium |
 ## String
 | Problem Name | Difficulty |
@@ -82,6 +83,7 @@
 | [0005-longest-palindromic-substring](https://github.com/Ritika090918/LeetCode/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0020-valid-parentheses](https://github.com/Ritika090918/LeetCode/tree/main/0020-valid-parentheses/) | Easy |
 | [0242-valid-anagram](https://github.com/Ritika090918/LeetCode/tree/main/0242-valid-anagram/) | Easy |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Ritika090918/LeetCode/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/Ritika090918/LeetCode/tree/main/2744-find-maximum-number-of-string-pairs/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
@@ -128,6 +130,7 @@
 | [0020-valid-parentheses](https://github.com/Ritika090918/LeetCode/tree/main/0020-valid-parentheses/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/Ritika090918/LeetCode/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0496-next-greater-element-i](https://github.com/Ritika090918/LeetCode/tree/main/0496-next-greater-element-i/) | Easy |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Ritika090918/LeetCode/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -136,4 +139,5 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/Ritika090918/LeetCode/tree/main/0020-valid-parentheses/) | Easy |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Ritika090918/LeetCode/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 <!---LeetCode Topics End-->
