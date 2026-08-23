@@ -84,6 +84,7 @@
 | [0020-valid-parentheses](https://github.com/Ritika090918/LeetCode/tree/main/0020-valid-parentheses/) | Easy |
 | [0242-valid-anagram](https://github.com/Ritika090918/LeetCode/tree/main/0242-valid-anagram/) | Easy |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Ritika090918/LeetCode/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Ritika090918/LeetCode/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/Ritika090918/LeetCode/tree/main/2744-find-maximum-number-of-string-pairs/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
@@ -131,6 +132,7 @@
 | [0234-palindrome-linked-list](https://github.com/Ritika090918/LeetCode/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0496-next-greater-element-i](https://github.com/Ritika090918/LeetCode/tree/main/0496-next-greater-element-i/) | Easy |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Ritika090918/LeetCode/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Ritika090918/LeetCode/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
