@@ -17,6 +17,7 @@
 | [0867-transpose-matrix](https://github.com/Ritika090918/LeetCode/tree/main/0867-transpose-matrix/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/Ritika090918/LeetCode/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1567-maximum-length-of-subarray-with-positive-product](https://github.com/Ritika090918/LeetCode/tree/main/1567-maximum-length-of-subarray-with-positive-product/) | Medium |
+| [1920-build-array-from-permutation](https://github.com/Ritika090918/LeetCode/tree/main/1920-build-array-from-permutation/) | Easy |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Ritika090918/LeetCode/tree/main/2442-count-number-of-distinct-integers-after-reverse-operations/) | Medium |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/Ritika090918/LeetCode/tree/main/2744-find-maximum-number-of-string-pairs/) | Easy |
 ## Hash Table
@@ -63,6 +64,7 @@
 | [0054-spiral-matrix](https://github.com/Ritika090918/LeetCode/tree/main/0054-spiral-matrix/) | Medium |
 | [0844-backspace-string-compare](https://github.com/Ritika090918/LeetCode/tree/main/0844-backspace-string-compare/) | Easy |
 | [0867-transpose-matrix](https://github.com/Ritika090918/LeetCode/tree/main/0867-transpose-matrix/) | Easy |
+| [1920-build-array-from-permutation](https://github.com/Ritika090918/LeetCode/tree/main/1920-build-array-from-permutation/) | Easy |
 | [2180-count-integers-with-even-digit-sum](https://github.com/Ritika090918/LeetCode/tree/main/2180-count-integers-with-even-digit-sum/) | Easy |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/Ritika090918/LeetCode/tree/main/2744-find-maximum-number-of-string-pairs/) | Easy |
 ## Divide and Conquer
