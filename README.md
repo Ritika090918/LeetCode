@@ -12,6 +12,7 @@
 | [0075-sort-colors](https://github.com/Ritika090918/LeetCode/tree/main/0075-sort-colors/) | Medium |
 | [0118-pascals-triangle](https://github.com/Ritika090918/LeetCode/tree/main/0118-pascals-triangle/) | Easy |
 | [0238-product-of-array-except-self](https://github.com/Ritika090918/LeetCode/tree/main/0238-product-of-array-except-self/) | Medium |
+| [0283-move-zeroes](https://github.com/Ritika090918/LeetCode/tree/main/0283-move-zeroes/) | Easy |
 | [0496-next-greater-element-i](https://github.com/Ritika090918/LeetCode/tree/main/0496-next-greater-element-i/) | Easy |
 | [0867-transpose-matrix](https://github.com/Ritika090918/LeetCode/tree/main/0867-transpose-matrix/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/Ritika090918/LeetCode/tree/main/1480-running-sum-of-1d-array/) | Easy |
@@ -53,6 +54,7 @@
 | [0142-linked-list-cycle-ii](https://github.com/Ritika090918/LeetCode/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/Ritika090918/LeetCode/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/Ritika090918/LeetCode/tree/main/0234-palindrome-linked-list/) | Easy |
+| [0283-move-zeroes](https://github.com/Ritika090918/LeetCode/tree/main/0283-move-zeroes/) | Easy |
 | [0844-backspace-string-compare](https://github.com/Ritika090918/LeetCode/tree/main/0844-backspace-string-compare/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/Ritika090918/LeetCode/tree/main/0876-middle-of-the-linked-list/) | Easy |
 ## Simulation
