@@ -15,6 +15,7 @@
 | [0283-move-zeroes](https://github.com/Ritika090918/LeetCode/tree/main/0283-move-zeroes/) | Easy |
 | [0496-next-greater-element-i](https://github.com/Ritika090918/LeetCode/tree/main/0496-next-greater-element-i/) | Easy |
 | [0867-transpose-matrix](https://github.com/Ritika090918/LeetCode/tree/main/0867-transpose-matrix/) | Easy |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/Ritika090918/LeetCode/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Ritika090918/LeetCode/tree/main/1431-kids-with-the-greatest-number-of-candies/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/Ritika090918/LeetCode/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1567-maximum-length-of-subarray-with-positive-product](https://github.com/Ritika090918/LeetCode/tree/main/1567-maximum-length-of-subarray-with-positive-product/) | Medium |
@@ -38,6 +39,7 @@
 | [0007-reverse-integer](https://github.com/Ritika090918/LeetCode/tree/main/0007-reverse-integer/) | Medium |
 | [0009-palindrome-number](https://github.com/Ritika090918/LeetCode/tree/main/0009-palindrome-number/) | Easy |
 | [0048-rotate-image](https://github.com/Ritika090918/LeetCode/tree/main/0048-rotate-image/) | Medium |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/Ritika090918/LeetCode/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [2180-count-integers-with-even-digit-sum](https://github.com/Ritika090918/LeetCode/tree/main/2180-count-integers-with-even-digit-sum/) | Easy |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Ritika090918/LeetCode/tree/main/2442-count-number-of-distinct-integers-after-reverse-operations/) | Medium |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Ritika090918/LeetCode/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
