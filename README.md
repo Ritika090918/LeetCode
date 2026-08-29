@@ -44,6 +44,7 @@
 | [0009-palindrome-number](https://github.com/Ritika090918/LeetCode/tree/main/0009-palindrome-number/) | Easy |
 | [0048-rotate-image](https://github.com/Ritika090918/LeetCode/tree/main/0048-rotate-image/) | Medium |
 | [0268-missing-number](https://github.com/Ritika090918/LeetCode/tree/main/0268-missing-number/) | Easy |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Ritika090918/LeetCode/tree/main/1290-convert-binary-number-in-a-linked-list-to-integer/) | Easy |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Ritika090918/LeetCode/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [2180-count-integers-with-even-digit-sum](https://github.com/Ritika090918/LeetCode/tree/main/2180-count-integers-with-even-digit-sum/) | Easy |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Ritika090918/LeetCode/tree/main/2442-count-number-of-distinct-integers-after-reverse-operations/) | Medium |
@@ -132,6 +133,7 @@
 | [0206-reverse-linked-list](https://github.com/Ritika090918/LeetCode/tree/main/0206-reverse-linked-list/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/Ritika090918/LeetCode/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/Ritika090918/LeetCode/tree/main/0876-middle-of-the-linked-list/) | Easy |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Ritika090918/LeetCode/tree/main/1290-convert-binary-number-in-a-linked-list-to-integer/) | Easy |
 ## Floyd's Cycle Finding Algorithm
 | Problem Name | Difficulty |
 | ------- | ------- |
