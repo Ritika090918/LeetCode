@@ -11,6 +11,7 @@
 | [0054-spiral-matrix](https://github.com/Ritika090918/LeetCode/tree/main/0054-spiral-matrix/) | Medium |
 | [0075-sort-colors](https://github.com/Ritika090918/LeetCode/tree/main/0075-sort-colors/) | Medium |
 | [0118-pascals-triangle](https://github.com/Ritika090918/LeetCode/tree/main/0118-pascals-triangle/) | Easy |
+| [0136-single-number](https://github.com/Ritika090918/LeetCode/tree/main/0136-single-number/) | Easy |
 | [0238-product-of-array-except-self](https://github.com/Ritika090918/LeetCode/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0283-move-zeroes](https://github.com/Ritika090918/LeetCode/tree/main/0283-move-zeroes/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/Ritika090918/LeetCode/tree/main/0485-max-consecutive-ones/) | Easy |
@@ -156,4 +157,8 @@
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/Ritika090918/LeetCode/tree/main/0020-valid-parentheses/) | Easy |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Ritika090918/LeetCode/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0136-single-number](https://github.com/Ritika090918/LeetCode/tree/main/0136-single-number/) | Easy |
 <!---LeetCode Topics End-->
