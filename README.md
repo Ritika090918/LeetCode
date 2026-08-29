@@ -13,6 +13,7 @@
 | [0118-pascals-triangle](https://github.com/Ritika090918/LeetCode/tree/main/0118-pascals-triangle/) | Easy |
 | [0238-product-of-array-except-self](https://github.com/Ritika090918/LeetCode/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0283-move-zeroes](https://github.com/Ritika090918/LeetCode/tree/main/0283-move-zeroes/) | Easy |
+| [0485-max-consecutive-ones](https://github.com/Ritika090918/LeetCode/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0496-next-greater-element-i](https://github.com/Ritika090918/LeetCode/tree/main/0496-next-greater-element-i/) | Easy |
 | [0867-transpose-matrix](https://github.com/Ritika090918/LeetCode/tree/main/0867-transpose-matrix/) | Easy |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Ritika090918/LeetCode/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
