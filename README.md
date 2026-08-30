@@ -19,6 +19,7 @@
 | [0485-max-consecutive-ones](https://github.com/Ritika090918/LeetCode/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0496-next-greater-element-i](https://github.com/Ritika090918/LeetCode/tree/main/0496-next-greater-element-i/) | Easy |
 | [0867-transpose-matrix](https://github.com/Ritika090918/LeetCode/tree/main/0867-transpose-matrix/) | Easy |
+| [0977-squares-of-a-sorted-array](https://github.com/Ritika090918/LeetCode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Ritika090918/LeetCode/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Ritika090918/LeetCode/tree/main/1431-kids-with-the-greatest-number-of-candies/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/Ritika090918/LeetCode/tree/main/1480-running-sum-of-1d-array/) | Easy |
@@ -69,6 +70,7 @@
 | [0283-move-zeroes](https://github.com/Ritika090918/LeetCode/tree/main/0283-move-zeroes/) | Easy |
 | [0844-backspace-string-compare](https://github.com/Ritika090918/LeetCode/tree/main/0844-backspace-string-compare/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/Ritika090918/LeetCode/tree/main/0876-middle-of-the-linked-list/) | Easy |
+| [0977-squares-of-a-sorted-array](https://github.com/Ritika090918/LeetCode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -111,6 +113,7 @@
 | [0075-sort-colors](https://github.com/Ritika090918/LeetCode/tree/main/0075-sort-colors/) | Medium |
 | [0242-valid-anagram](https://github.com/Ritika090918/LeetCode/tree/main/0242-valid-anagram/) | Easy |
 | [0268-missing-number](https://github.com/Ritika090918/LeetCode/tree/main/0268-missing-number/) | Easy |
+| [0977-squares-of-a-sorted-array](https://github.com/Ritika090918/LeetCode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
