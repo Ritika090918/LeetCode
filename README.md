@@ -191,4 +191,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Ritika090918/LeetCode/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
+## Quicksort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0075-sort-colors](https://github.com/Ritika090918/LeetCode/tree/main/0075-sort-colors/) | Medium |
+## Bubble Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0075-sort-colors](https://github.com/Ritika090918/LeetCode/tree/main/0075-sort-colors/) | Medium |
 <!---LeetCode Topics End-->
