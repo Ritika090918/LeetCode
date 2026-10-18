@@ -20,6 +20,7 @@
 | [0496-next-greater-element-i](https://github.com/Ritika090918/LeetCode/tree/main/0496-next-greater-element-i/) | Easy |
 | [0867-transpose-matrix](https://github.com/Ritika090918/LeetCode/tree/main/0867-transpose-matrix/) | Easy |
 | [0922-sort-array-by-parity-ii](https://github.com/Ritika090918/LeetCode/tree/main/0922-sort-array-by-parity-ii/) | Easy |
+| [0976-largest-perimeter-triangle](https://github.com/Ritika090918/LeetCode/tree/main/0976-largest-perimeter-triangle/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/Ritika090918/LeetCode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Ritika090918/LeetCode/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Ritika090918/LeetCode/tree/main/1431-kids-with-the-greatest-number-of-candies/) | Easy |
@@ -47,6 +48,7 @@
 | [0009-palindrome-number](https://github.com/Ritika090918/LeetCode/tree/main/0009-palindrome-number/) | Easy |
 | [0048-rotate-image](https://github.com/Ritika090918/LeetCode/tree/main/0048-rotate-image/) | Medium |
 | [0268-missing-number](https://github.com/Ritika090918/LeetCode/tree/main/0268-missing-number/) | Easy |
+| [0976-largest-perimeter-triangle](https://github.com/Ritika090918/LeetCode/tree/main/0976-largest-perimeter-triangle/) | Easy |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Ritika090918/LeetCode/tree/main/1290-convert-binary-number-in-a-linked-list-to-integer/) | Easy |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Ritika090918/LeetCode/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [2180-count-integers-with-even-digit-sum](https://github.com/Ritika090918/LeetCode/tree/main/2180-count-integers-with-even-digit-sum/) | Easy |
@@ -97,6 +99,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Ritika090918/LeetCode/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
+| [0976-largest-perimeter-triangle](https://github.com/Ritika090918/LeetCode/tree/main/0976-largest-perimeter-triangle/) | Easy |
 | [1567-maximum-length-of-subarray-with-positive-product](https://github.com/Ritika090918/LeetCode/tree/main/1567-maximum-length-of-subarray-with-positive-product/) | Medium |
 ## String
 | Problem Name | Difficulty |
@@ -116,6 +119,7 @@
 | [0242-valid-anagram](https://github.com/Ritika090918/LeetCode/tree/main/0242-valid-anagram/) | Easy |
 | [0268-missing-number](https://github.com/Ritika090918/LeetCode/tree/main/0268-missing-number/) | Easy |
 | [0922-sort-array-by-parity-ii](https://github.com/Ritika090918/LeetCode/tree/main/0922-sort-array-by-parity-ii/) | Easy |
+| [0976-largest-perimeter-triangle](https://github.com/Ritika090918/LeetCode/tree/main/0976-largest-perimeter-triangle/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/Ritika090918/LeetCode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 ## Matrix
 | Problem Name | Difficulty |
@@ -198,8 +202,13 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0075-sort-colors](https://github.com/Ritika090918/LeetCode/tree/main/0075-sort-colors/) | Medium |
+| [0976-largest-perimeter-triangle](https://github.com/Ritika090918/LeetCode/tree/main/0976-largest-perimeter-triangle/) | Easy |
 ## Bubble Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0075-sort-colors](https://github.com/Ritika090918/LeetCode/tree/main/0075-sort-colors/) | Medium |
+## Polygons
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0976-largest-perimeter-triangle](https://github.com/Ritika090918/LeetCode/tree/main/0976-largest-perimeter-triangle/) | Easy |
 <!---LeetCode Topics End-->
